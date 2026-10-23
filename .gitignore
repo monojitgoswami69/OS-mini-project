@@ -1,0 +1,28 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Editor & IDE Directories/Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Runtime & Local State Files
+snake_highscore
+.snake_highscore
+*.log
+*.tmp
+*.bak
+
+# Office & Document Temp/Lock Files
+~$*.docx
